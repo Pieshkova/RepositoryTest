@@ -5,11 +5,11 @@
             <style>
       p {
         color: red;
-        font-size: 20px;
+        font-size: 25px;
         background-color: yellow;
       }
     </style>
-    <title>Цікаві факти про Одесу</title>
+    <title>что то поменяли</title>
   </head>
   <body>
     <h1 style="color: red;">Одеса</h1>
@@ -24,6 +24,6 @@
       <li>бла бла бла</li>
     </ul>
     <p>Якщо є бажання побачити другу сторінку:</p>
-    <a href="22.html">Жмакай сюда </a>
+    <a href="22.html">тыц </a>
   </body>
 </html>
